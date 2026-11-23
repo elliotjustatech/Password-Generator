@@ -39,7 +39,6 @@ python password.py
 The script will then walk you through a few questions:
 
 ```
-Password generator from elliotjustatech
 
 Какая нужна длина пароля?(От 1 до 20): 16
 Нужны заглавные буквы?(y/n): y
